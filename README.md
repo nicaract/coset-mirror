@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add type hinting to explorer.py (#7388)
