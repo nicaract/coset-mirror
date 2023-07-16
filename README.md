@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
