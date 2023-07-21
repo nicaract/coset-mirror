@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add docs guide terminal images (#8819)
