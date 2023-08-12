@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
