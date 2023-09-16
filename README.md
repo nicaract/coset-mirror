@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
