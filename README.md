@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Update CI.md with CI links (#8786)
