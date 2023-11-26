@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add Amazon Sagemaker Docs integrations page (#7293)
