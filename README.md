@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add horizontal Mosaic3 augmentation (#6898)
