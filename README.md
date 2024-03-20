@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Rename model_id to model.id (#8447)
