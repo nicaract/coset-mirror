@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Docs partial mdformat improvements (#7378)
