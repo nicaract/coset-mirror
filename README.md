@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
