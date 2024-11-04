@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Allow Annotator PIL.Image inputs (#8397)
